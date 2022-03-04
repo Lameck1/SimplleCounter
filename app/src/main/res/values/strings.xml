@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">SimplleCounter</string>
+    <string name="_0">0</string>
+    <string name="minusOperator">-</string>
+    <string name="reset">RESET</string>
+    <string name="plusOperator">+</string>
+    <string name="count">COUNT:</string>
+
+</resources>
